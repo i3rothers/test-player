@@ -66,9 +66,11 @@ MIT
 @angular/router
 MIT
 
-@i3rothers/event-service-client
+@i3rothers/event-service-client-angular
 
-@i3rothers/test-service-client
+@i3rothers/test-service-client-angular
+
+@i3rothers/user-service-client-angular
 
 rxjs
 Apache-2.0
