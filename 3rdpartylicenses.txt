@@ -66,6 +66,10 @@ MIT
 @angular/router
 MIT
 
+@i3rothers/event-service-client
+
+@i3rothers/test-service-client
+
 rxjs
 Apache-2.0
                                Apache License
